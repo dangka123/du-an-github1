@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Công nghệ và vai trò trong đời sống hiện đại</title>
+  <meta name="description" content="Bài viết ngắn nói về vai trò của công nghệ trong đời sống, giáo dục, kinh tế, những thách thức và triển vọng tương lai." />
+  <meta name="author" content="ChatGPT - GPT-5 Thinking mini">
+  <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+  <style>
+    :root{--bg:#f7f8fb;--card:#ffffff;--muted:#6b7280;--accent:#0ea5a4}
+    *{box-sizing:border-box}
+    body{font-family:Inter,system-ui,Segoe UI,Roboto,'Helvetica Neue',Arial,sans-serif;margin:0;background:var(--bg);color:#111}
+    .container{max-width:900px;margin:40px auto;padding:24px}
+    header{display:flex;gap:16px;align-items:center}
+    .logo{width:56px;height:56px;background:linear-gradient(135deg,var(--accent),#06b6d4);border-radius:10px;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700}
+    .card{background:var(--card);border-radius:12px;padding:26px;box-shadow:0 6px 18px rgba(16,24,40,0.06)}
+    h1{margin:0 0 12px;font-size:1.6rem}
+    .meta{color:var(--muted);font-size:0.95rem;margin-bottom:18px}
+    h2{margin-top:18px}
+    p{line-height:1.7;margin:10px 0}
+    footer{margin-top:18px;color:var(--muted);font-size:0.9rem}
+    @media (max-width:640px){.container{margin:18px;padding:16px}}
+  </style>
+</head>
+<body>
+  <main class="container">
+    <div class="card">
+      <header>
+        <div class="logo">CT</div>
+        <div>
+          <h1>Công nghệ và vai trò trong đời sống hiện đại</h1>
+          <div class="meta">Tác giả: ChatGPT • Ngày tạo: 26/09/2025</div>
+        </div>
+      </header>
+
+      <article>
+        <p>Trong thế kỷ 21, công nghệ đã trở thành xương sống của nhiều hoạt động con người. Từ kết nối cá nhân đến vận hành doanh nghiệp, công nghệ không chỉ là công cụ hỗ trợ mà còn là lực đẩy đổi mới sáng tạo. Thiết bị di động, mạng Internet và nền tảng số đã thay đổi cách chúng ta làm việc, học tập và giải trí — biến những rào cản địa lý và thời gian trở nên mờ nhạt hơn.</p>
+
+        <h2>1. Công nghệ trong đời sống hàng ngày</h2>
+        <p>Chiếc điện thoại thông minh giờ đây là trung tâm điều khiển cho nhiều nhu cầu: liên lạc, mua sắm, ngân hàng và quản lý sức khỏe. Ứng dụng giao thông, thanh toán không tiền mặt và dịch vụ theo yêu cầu làm cho cuộc sống tiện nghi và nhanh chóng hơn. Công nghệ cũng hỗ trợ người cao tuổi và người có nhu cầu đặc biệt thông qua các giải pháp trợ giúp thông minh.</p>
+
+        <h2>2. Giáo dục và học tập</h2>
+        <p>Công nghệ đã mở rộng khả năng tiếp cận tri thức bằng các nền tảng học trực tuyến, khoá học mở và công cụ hỗ trợ cá nhân hóa. Học sinh và người học ở mọi lứa tuổi có thể truy cập nội dung chất lượng cao, tham gia lớp học tương tác và nhận phản hồi nhanh. Trong những thời điểm khủng hoảng như dịch bệnh, công nghệ là phương án duy trì hoạt động dạy-học hiệu quả.</p>
+
+        <h2>3. Kinh tế, sản xuất và đổi mới</h2>
+        <p>Tự động hóa, dữ liệu lớn (Big Data) và trí tuệ nhân tạo giúp doanh nghiệp tối ưu hóa quy trình sản xuất, giảm chi phí và nâng cao chất lượng. Thương mại điện tử kết nối người bán với thị trường toàn cầu, trong khi các công nghệ mới như blockchain và IoT mở ra mô hình kinh doanh sáng tạo và an toàn hơn.</p>
+
+        <h2>4. Thách thức và rủi ro</h2>
+        <p>Mặt trái của công nghệ bao gồm rủi ro về bảo mật thông tin, quyền riêng tư và sự phụ thuộc quá mức vào thiết bị số. Nội dung sai lệch và tội phạm mạng là những vấn đề đòi hỏi chính sách, giáo dục và giải pháp kỹ thuật đồng thời. Ngoài ra, việc tự động hóa có thể gây ra thay đổi lớn trong lao động, yêu cầu con người phải nâng cao kỹ năng liên tục.</p>
+
+        <h2>5. Hướng tới tương lai bền vững</h2>
+        <p>Tương lai công nghệ không chỉ là mạnh hơn, nhanh hơn mà còn phải bền vững và công bằng. Công nghệ xanh, y tế cá nhân hóa, và hợp tác xuyên quốc gia là những hướng phát triển hứa hẹn. Điều then chốt là sử dụng công nghệ vì lợi ích chung—giải quyết các thách thức về môi trường, y tế và an ninh lương thực—trong khi bảo đảm quyền con người và công bằng xã hội.</p>
+
+        <footer>Muốn tôi xuất bản phiên bản này dưới dạng file Markdown, PDF, hoặc một trang web tĩnh khác không? Trả lời là "PDF", "Markdown" hoặc "Web" nhé.</footer>
+      </article>
+    </div>
+  </main>
+</body>
+</html>
