@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Thiết kế và vai trò trong đời sống hiện đại</title>
+  <meta name="description" content="Bài viết ngắn nói về khái niệm, vai trò và tầm quan trọng của thiết kế trong đời sống và kinh doanh." />
+  <meta name="author" content="ChatGPT - GPT-5 Thinking mini">
+  <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+  <style>
+    :root{--bg:#f6f8fa;--card:#ffffff;--muted:#6b7280;--accent:#ef4444}
+    *{box-sizing:border-box}
+    body{font-family:Inter,system-ui,Segoe UI,Roboto,'Helvetica Neue',Arial,sans-serif;margin:0;background:var(--bg);color:#0f172a}
+    .container{max-width:900px;margin:40px auto;padding:24px}
+    .card{background:var(--card);border-radius:12px;padding:26px;box-shadow:0 8px 24px rgba(15,23,42,0.06)}
+    header{display:flex;gap:16px;align-items:center}
+    .logo{width:56px;height:56px;background:linear-gradient(135deg,var(--accent),#fb7185);border-radius:10px;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700}
+    h1{margin:0 0 12px;font-size:1.6rem}
+    .meta{color:var(--muted);font-size:0.95rem;margin-bottom:18px}
+    h2{margin-top:18px}
+    p{line-height:1.7;margin:10px 0}
+    footer{margin-top:18px;color:var(--muted);font-size:0.9rem}
+    @media (max-width:640px){.container{margin:18px;padding:16px}}
+  </style>
+</head>
+<body>
+  <main class="container">
+    <div class="card">
+      <header>
+        <div class="logo">DK</div>
+        <div>
+          <h1>Thiết kế và vai trò trong đời sống hiện đại</h1>
+          <div class="meta">Tác giả: ChatGPT • Ngày tạo: 26/09/2025</div>
+        </div>
+      </header>
+
+      <article>
+        <p>Thiết kế không chỉ là mỹ thuật hay trang trí; đó là quá trình tư duy có chủ đích để giải quyết vấn đề và tạo ra giá trị cho người dùng. Thiết kế xuất hiện ở mọi tầng lớp xã hội — từ trải nghiệm sử dụng một ứng dụng di động, không gian sống, đến quy trình sản xuất trong nhà máy. Một thiết kế tốt kết hợp thẩm mỹ, chức năng và sự thấu hiểu nhu cầu thực tế.</p>
+
+        <h2>1. Khái niệm và phạm vi</h2>
+        <p>Thiết kế bao gồm nhiều lĩnh vực: thiết kế sản phẩm, thiết kế giao diện người dùng (UI/UX), thiết kế nội thất, thiết kế đồ hoạ, và thiết kế dịch vụ. Dù ở lĩnh vực nào, mục tiêu chung là tạo ra trải nghiệm hiệu quả, dễ dùng và mang tính thẩm mỹ. Thiết kế hiện đại thường dựa trên phương pháp nghiên cứu người dùng, thử nghiệm nhanh (prototyping) và lặp lại (iterative).</p>
+
+        <h2>2. Vai trò trong kinh doanh và thương hiệu</h2>
+        <p>Thiết kế góp phần định vị thương hiệu và tạo lợi thế cạnh tranh. Một sản phẩm có thiết kế tốt thường dễ tiếp cận hơn, sử dụng trực quan hơn và tăng sự hài lòng của khách hàng. Thiết kế còn ảnh hưởng đến giá trị cảm nhận và quyết
